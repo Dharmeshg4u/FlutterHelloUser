@@ -1,16 +1,19 @@
-# flutter_hello_user
+# Flutter Hello User
+Flutter app that demonstrates the use of MVVM architecture, Provider for state management, and Firebase for data storage.
 
-A new Flutter project.
+## App Demo Video
 
-## Getting Started
+[![Demo Video](https://www.iconsdb.com/icons/preview/red/video-play-xxl.png)](https://drive.google.com/file/d/1SfOQQXz3rWtcISb2HZBKiTobVQJXXsBM/view?usp=drive_link)
 
-This project is a starting point for a Flutter application.
+## Apk File
 
-A few resources to get you started if this is your first Flutter project:
+Please find the apk file in the [project/demo/apk](https://github.com/Dharmeshg4u/FlutterHelloUser/tree/master/demo "project/demo/apk") folder.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+<div style="display: flex;">
+    <img src="https://github.com/Dharmeshg4u/FlutterHelloUser/blob/master/demo/screenshots/SignUp_Screen.png" alt="SignUp_Screen.png" width="200" style="margin-right: 15px;">
+    <img src="https://github.com/Dharmeshg4u/FlutterHelloUser/blob/master/demo/screenshots/Login_Screen.png" alt="Login_Screen.png" width="200" style="margin-right: 15px;">
+    <img src="https://github.com/Dharmeshg4u/FlutterHelloUser/blob/master/demo/screenshots/Books_Screen.png" alt="Books_Screen.png" width="200" style="margin-right: 15px;">
+    <img src="https://github.com/Dharmeshg4u/FlutterHelloUser/blob/master/demo/screenshots/Add_Books_Dialog.png" alt="Add_Books_Dialog.png" width="200">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
